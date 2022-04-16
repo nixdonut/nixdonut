@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @nixdonut!
 
 ![Hi!](https://c.tenor.com/_iS_j2iYJK4AAAAM/quby-quby-chan.gif)
-- 👀 I’m interested in mathematics(calculus 1-3, stats, linear alg/vector alg), using mathematics to explore machine learning algorithms, neural-network affiliated research, and several computer science technologies.
+- 👀 I’m interested in mathematics(primarily statistical modelling), using mathematics to explore machine learning algorithms, neural-network affiliated research, and several computer science technologies.
 - 👨‍💻 I specialize in AWS(S3, EC2, ECS, EKS), SAS, Spark, TensorFlow, Torch, Scikit, Numpy, Theano, PostgreSQL, Redis, and MySQL.
 - 🌱 I’m currently exploring data science technologies with SAS, Python, R and MATLAB and learning C/C++, system architecture, and usage of cloud technologies.
 - 💞️ I’m looking to collaborate on my personal projects, help maintain and fix bugs in other open source projects, as well as open to collaborating professionally and welcoming recruitment and internship/employment opportunities.
